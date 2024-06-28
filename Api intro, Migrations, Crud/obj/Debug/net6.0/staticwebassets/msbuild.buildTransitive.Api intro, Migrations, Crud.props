@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Api intro, Migrations, Crud.props" />
+</Project>

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\Desktop\\api\\Api intro, Migrations, Crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7927B567-99F3-4148-A8F8-D59183D56287}|Api intro, Migrations, Crud\\api-migration-crud-intro.csproj|c:\\users\\asus\\onedrive\\desktop\\api\\api intro, migrations, crud\\api intro, migrations, crud\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7927B567-99F3-4148-A8F8-D59183D56287}|Api intro, Migrations, Crud\\api-migration-crud-intro.csproj|solutionrelative:api intro, migrations, crud\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7927B567-99F3-4148-A8F8-D59183D56287}|Api intro, Migrations, Crud\\api-migration-crud-intro.csproj|c:\\users\\asus\\onedrive\\desktop\\api\\api intro, migrations, crud\\api intro, migrations, crud\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7927B567-99F3-4148-A8F8-D59183D56287}|Api intro, Migrations, Crud\\api-migration-crud-intro.csproj|solutionrelative:api intro, migrations, crud\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\api\\Api intro, Migrations, Crud\\Api intro, Migrations, Crud\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "Api intro, Migrations, Crud\\Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\api\\Api intro, Migrations, Crud\\Api intro, Migrations, Crud\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "Api intro, Migrations, Crud\\Controllers\\CountryController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T19:37:13.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\api\\Api intro, Migrations, Crud\\Api intro, Migrations, Crud\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "Api intro, Migrations, Crud\\Controllers\\CityController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\api\\Api intro, Migrations, Crud\\Api intro, Migrations, Crud\\Controllers\\CityController.cs",
+              "RelativeToolTip": "Api intro, Migrations, Crud\\Controllers\\CityController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAADwv08AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T19:18:59.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
